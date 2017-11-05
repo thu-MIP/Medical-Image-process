@@ -8,8 +8,8 @@
 # Data Collection
 - Data description including sample image [[link]](http://bioimage.ucsb.edu/research/bio-segmentation)
 
-#Paper Collection
+# Paper Collection
 - Deep MR to CT Synthesis using Unpaired Data [[arXiv]](https://arxiv.org/abs/1708.01155)
 
-#Code
+# Code
 - [[BEGAN-tensorflow]](https://github.com/carpedm20/BEGAN-tensorflow)
